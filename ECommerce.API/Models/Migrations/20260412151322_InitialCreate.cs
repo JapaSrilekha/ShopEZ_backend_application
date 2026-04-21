@@ -113,8 +113,8 @@ namespace ECommerce.API.Migrations
                 values: new object[,]
                 {
                     { 1, "admin@shopez.com", "Super Admin", "$2a$11$dlZGvJcs1Se5eeUk06PUL.NDFX.r7WEOg4J8WO38ztdi/D00X2O7m", "Admin" },
-                    { 2, "aaysha.khan@example.com", "Aaysha Khan", "$2a$11$uk0ZAA8NItIU3iaJLw6L5O8wt.KrTuzdhqRkbHkBdWnBG6HO1NHZi", "Customer" },
-                    { 3, "rahul.sharma@example.com", "Rahul Sharma", "$2a$11$q9uReI3Y7WZZBSJqceanhee2BL3YMynfRxDCQ5IZZTfljzpgyTM7q", "Customer" }
+                    { 2, "japasrilekha@example.com", "Japa Srilekha", "$2a$11$uk0ZAA8NItIU3iaJLw6L5O8wt.KrTuzdhqRkbHkBdWnBG6HO1NHZi", "Customer" },
+                    { 3, "japalikhithanjali@example.com", "Japa Likhithanjali", "$2a$11$q9uReI3Y7WZZBSJqceanhee2BL3YMynfRxDCQ5IZZTfljzpgyTM7q", "Customer" }
                 });
 
             migrationBuilder.InsertData(
