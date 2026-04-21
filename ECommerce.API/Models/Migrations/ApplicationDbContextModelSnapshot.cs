@@ -232,16 +232,16 @@ namespace ECommerce.API.Migrations
                         new
                         {
                             UserId = 2,
-                            Email = "aaysha.khan@example.com",
-                            Name = "Aaysha Khan",
+                            Email = "japasrilekha@example.com",
+                            Name = "Japa Srilekha",
                             Password = "$2a$11$uk0ZAA8NItIU3iaJLw6L5O8wt.KrTuzdhqRkbHkBdWnBG6HO1NHZi",
                             Role = "Customer"
                         },
                         new
                         {
                             UserId = 3,
-                            Email = "rahul.sharma@example.com",
-                            Name = "Rahul Sharma",
+                            Email = "japalikhithanjali@example.com",
+                            Name = "Japa Likhithanjali",
                             Password = "$2a$11$q9uReI3Y7WZZBSJqceanhee2BL3YMynfRxDCQ5IZZTfljzpgyTM7q",
                             Role = "Customer"
                         });
