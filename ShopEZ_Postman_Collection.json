@@ -77,7 +77,7 @@
             "url": { "raw": "{{baseUrl}}/api/auth/login", "host": ["{{baseUrl}}"], "path": ["api", "auth", "login"] },
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"email\": \"aaysha.khan@example.com\",\n  \"password\": \"Aaysha@123\"\n}"
+              "raw": "{\n  \"email\": \"japasrilekha@example.com\",\n  \"password\": \"Sri@123\"\n}"
             }
           },
           "response": []
