@@ -53,9 +53,9 @@ A backend REST API for an e-commerce platform built with **ASP.NET Core 8**, **E
 |---|---|---|---|
 | Super Admin | admin@shopez.com | `Admin@123` | Admin |
 | Japa Srilekha | japasrilekha@example.com | `Sri@123` | Customer |
-| Likhithanjali | likhithanjali@example.com | `Likhithanjali@123` | Customer |
+| Japa Likhithanjali | japalikhithanjali@example.com | `Likhithanjali@123` | Customer |
 
-5 products are seeded (Wireless Headphones ₹1999, Mechanical Keyboard ₹4999, USB-C Hub ₹1500, Gaming Mouse ₹1999, Monitor Stand ₹999) plus 1 sample order for Srilekha.
+5 products are seeded (Wireless Headphones ₹2999, Mechanical Keyboard ₹4499, USB-C Hub ₹1299, Gaming Mouse ₹1899, Monitor Stand ₹899) plus 1 sample order for Srilekha.
 
 ---
 
