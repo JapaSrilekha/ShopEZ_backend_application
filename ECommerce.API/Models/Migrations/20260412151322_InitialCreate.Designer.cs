@@ -91,7 +91,7 @@ namespace ECommerce.API.Migrations
                         {
                             OrderItemId = 1,
                             OrderId = 1,
-                            Price = 1999.99m,
+                            Price = 2999.99m,
                             ProductId = 1,
                             Quantity = 1
                         },
@@ -99,7 +99,7 @@ namespace ECommerce.API.Migrations
                         {
                             OrderItemId = 2,
                             OrderId = 1,
-                            Price = 1500.50m,
+                            Price = 1299.50m,
                             ProductId = 3,
                             Quantity = 1
                         });
@@ -145,7 +145,7 @@ namespace ECommerce.API.Migrations
                             Description = "Premium noise-cancelling wireless headphones with 30-hour battery life.",
                             ImageUrl = "https://example.com/images/headphones.jpg",
                             Name = "Wireless Headphones",
-                            Price = 1999.99m,
+                            Price = 2999.99m,
                             Stock = 50
                         },
                         new
@@ -154,7 +154,7 @@ namespace ECommerce.API.Migrations
                             Description = "Full-size mechanical keyboard with RGB backlight and tactile switches.",
                             ImageUrl = "https://example.com/images/keyboard.jpg",
                             Name = "Mechanical Keyboard",
-                            Price = 4999.00m,
+                            Price = 4499.00m,
                             Stock = 30
                         },
                         new
@@ -163,7 +163,7 @@ namespace ECommerce.API.Migrations
                             Description = "7-in-1 USB-C hub with HDMI, USB 3.0, and SD card reader.",
                             ImageUrl = "https://example.com/images/usbhub.jpg",
                             Name = "USB-C Hub",
-                            Price = 1500.50m,
+                            Price = 1299.50m,
                             Stock = 100
                         },
                         new
@@ -172,7 +172,7 @@ namespace ECommerce.API.Migrations
                             Description = "Ergonomic gaming mouse with 12000 DPI sensor and programmable buttons.",
                             ImageUrl = "https://example.com/images/mouse.jpg",
                             Name = "Gaming Mouse",
-                            Price = 1999.00m,
+                            Price = 1899.00m,
                             Stock = 75
                         },
                         new
@@ -181,7 +181,7 @@ namespace ECommerce.API.Migrations
                             Description = "Adjustable aluminium monitor stand with storage shelf.",
                             ImageUrl = "https://example.com/images/monitorstand.jpg",
                             Name = "Monitor Stand",
-                            Price = 999.99m,
+                            Price = 899.99m,
                             Stock = 40
                         });
                 });
