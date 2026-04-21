@@ -91,7 +91,7 @@ namespace ECommerce.API.Migrations
                         {
                             OrderItemId = 1,
                             OrderId = 1,
-                            Price = 2999.99m,
+                            Price = 1999.99m,
                             ProductId = 1,
                             Quantity = 1
                         },
@@ -99,7 +99,7 @@ namespace ECommerce.API.Migrations
                         {
                             OrderItemId = 2,
                             OrderId = 1,
-                            Price = 1299.50m,
+                            Price = 1500.50m,
                             ProductId = 3,
                             Quantity = 1
                         });
@@ -145,7 +145,7 @@ namespace ECommerce.API.Migrations
                             Description = "Premium noise-cancelling wireless headphones with 30-hour battery life.",
                             ImageUrl = "https://example.com/images/headphones.jpg",
                             Name = "Wireless Headphones",
-                            Price = 2999.99m,
+                            Price = 1999.99m,
                             Stock = 50
                         },
                         new
@@ -154,7 +154,7 @@ namespace ECommerce.API.Migrations
                             Description = "Full-size mechanical keyboard with RGB backlight and tactile switches.",
                             ImageUrl = "https://example.com/images/keyboard.jpg",
                             Name = "Mechanical Keyboard",
-                            Price = 4499.00m,
+                            Price = 4999.00m,
                             Stock = 30
                         },
                         new
@@ -163,7 +163,7 @@ namespace ECommerce.API.Migrations
                             Description = "7-in-1 USB-C hub with HDMI, USB 3.0, and SD card reader.",
                             ImageUrl = "https://example.com/images/usbhub.jpg",
                             Name = "USB-C Hub",
-                            Price = 1299.50m,
+                            Price = 1500.50m,
                             Stock = 100
                         },
                         new
@@ -172,7 +172,7 @@ namespace ECommerce.API.Migrations
                             Description = "Ergonomic gaming mouse with 12000 DPI sensor and programmable buttons.",
                             ImageUrl = "https://example.com/images/mouse.jpg",
                             Name = "Gaming Mouse",
-                            Price = 1899.00m,
+                            Price = 1999.00m,
                             Stock = 75
                         },
                         new
@@ -181,7 +181,7 @@ namespace ECommerce.API.Migrations
                             Description = "Adjustable aluminium monitor stand with storage shelf.",
                             ImageUrl = "https://example.com/images/monitorstand.jpg",
                             Name = "Monitor Stand",
-                            Price = 899.99m,
+                            Price = 999.99m,
                             Stock = 40
                         });
                 });
@@ -235,16 +235,16 @@ namespace ECommerce.API.Migrations
                         new
                         {
                             UserId = 2,
-                            Email = "aaysha.khan@example.com",
-                            Name = "Aaysha Khan",
+                            Email = "japasrilekha@example.com",
+                            Name = "Japa Srilekha",
                             Password = "$2a$11$uk0ZAA8NItIU3iaJLw6L5O8wt.KrTuzdhqRkbHkBdWnBG6HO1NHZi",
                             Role = "Customer"
                         },
                         new
                         {
                             UserId = 3,
-                            Email = "rahul.sharma@example.com",
-                            Name = "Rahul Sharma",
+                            Email = "japalikhithanjali@example.com",
+                            Name = "Japa Likhithanjali",
                             Password = "$2a$11$q9uReI3Y7WZZBSJqceanhee2BL3YMynfRxDCQ5IZZTfljzpgyTM7q",
                             Role = "Customer"
                         });
